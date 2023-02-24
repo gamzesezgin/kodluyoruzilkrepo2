@@ -3,7 +3,7 @@
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 # Installation
-Öncelikle projeyi clonelayın.(https://github.com/gamzesezgin/kodluyoruzilkrepo2.git)
+Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)(https://github.com/gamzesezgin/kodluyoruzilkrepo2.git)
 
 # Usage
 Projeyi cloneladıktan sonra Visual Studuo Code içerisinde açınız.
